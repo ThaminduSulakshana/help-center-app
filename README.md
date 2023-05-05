@@ -31,12 +31,15 @@ There is another service quick contact users can submit their contact details fo
     </tr>
   </tbody>
 </table>
+![Screenshot_20230422_215831](https://user-images.githubusercontent.com/89307986/236409626-c0344d91-2912-482f-bfa2-d39ddcae7b89.png)
+![Screenshot_20230505_085941](https://user-images.githubusercontent.com/89307986/236409630-fe4ca967-d4c1-4f26-99c8-a152749c1ebe.png)
 
-![Screenshot (548)](https://user-images.githubusercontent.com/89307986/236408583-5f996064-9761-4715-a515-772fd7060c92.png)
-![Screenshot (546)](https://user-images.githubusercontent.com/89307986/236408590-df54a6ea-b36f-44bd-a12e-6cb15d5a105e.png)
-![Screenshot (544)](https://user-images.githubusercontent.com/89307986/236408591-4413a429-f5a2-499a-9d68-3c9fdc6568ff.png)
-![Screenshot (540)](https://user-images.githubusercontent.com/89307986/236408596-240983d7-8da7-4fa5-853b-8e85cb15277f.png)
-![Screenshot (537)](https://user-images.githubusercontent.com/89307986/236408603-2784e478-e71d-4faf-b31d-e5e3d6667ab7.png)
-![Screenshot (536)](https://user-images.githubusercontent.com/89307986/236408607-dc300367-d2d1-4ce4-87cb-873eb47c1312.png)
 
+
+![thilina1](https://user-images.githubusercontent.com/89307986/236409703-93bdd9ac-f0e2-4598-ab1a-ffa3806cbc67.png)
+![Screenshot (546)](https://user-images.githubusercontent.com/89307986/236409713-6194d599-ec8f-41e1-ac80-ada3a6c1db07.png)
+![Screenshot (547)](https://user-images.githubusercontent.com/89307986/236409715-df39a86f-cef4-456a-a70b-04ae501eb2f8.png)
+![Screenshot (548)](https://user-images.githubusercontent.com/89307986/236409719-d307adba-85f6-4a11-9da9-461784caaa6e.png)
+![Screenshot (549)](https://user-images.githubusercontent.com/89307986/236409721-ad4868fb-d01f-448b-abc3-23b8bc632e5f.png)
+![thilina 3](https://user-images.githubusercontent.com/89307986/236409723-efc0f479-5c8a-408a-943b-0fae26dcf611.png)
 
