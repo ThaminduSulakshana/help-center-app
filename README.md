@@ -30,7 +30,9 @@ There is another service quick contact users can submit their contact details fo
       <td>Allows users to delete problems/comments from the system</td>
     </tr>
   </tbody>
-</table>![Screenshot (548)](https://user-images.githubusercontent.com/89307986/236408583-5f996064-9761-4715-a515-772fd7060c92.png)
+</table>
+
+![Screenshot (548)](https://user-images.githubusercontent.com/89307986/236408583-5f996064-9761-4715-a515-772fd7060c92.png)
 ![Screenshot (546)](https://user-images.githubusercontent.com/89307986/236408590-df54a6ea-b36f-44bd-a12e-6cb15d5a105e.png)
 ![Screenshot (544)](https://user-images.githubusercontent.com/89307986/236408591-4413a429-f5a2-499a-9d68-3c9fdc6568ff.png)
 ![Screenshot (540)](https://user-images.githubusercontent.com/89307986/236408596-240983d7-8da7-4fa5-853b-8e85cb15277f.png)
