@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887469052241",
+    "project_id": "sula-yako",
+    "storage_bucket": "sula-yako.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887469052241:android:3c42eb0fd89d839e8a0370",
+        "android_client_info": {
+          "package_name": "com.example.mf1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887469052241-3volfl7lba0c7fajavlo81c2nqi3l805.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmLUqWIcEooUf6VCmxkeXZzjzAP4W6PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887469052241-3volfl7lba0c7fajavlo81c2nqi3l805.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
