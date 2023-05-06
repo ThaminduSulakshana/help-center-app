@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".faq">
+
+
+    <ImageView
+        android:id="@+id/upper_back"
+        android:layout_width="483dp"
+        android:layout_height="279dp"
+        android:layout_marginBottom="52dp"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout_mini"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+         />
+
+    <ImageView
+        android:id="@+id/imagelogo"
+        android:layout_width="306dp"
+        android:layout_height="73dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.404"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo_main" />
+
+
+    <TextView
+        android:id="@+id/Txt_Welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Ask a Question"
+        android:textColor="#F3F1F1"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imagelogo" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout_mini"
+        android:layout_width="356dp"
+        android:layout_height="320dp"
+        android:layout_marginTop="32dp"
+
+        android:radius="50dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout2">
+
+        <EditText
+            android:id="@+id/editTextTextMultiLine"
+            android:layout_width="339dp"
+            android:layout_height="188dp"
+            android:layout_marginTop="28dp"
+            android:background="#fff"
+            android:ems="10"
+            android:gravity="start|top"
+            android:hint="Comments/Qyestions"
+            android:inputType="textMultiLine"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="9dp" />
+
+        <CheckBox
+            android:id="@+id/FAQAgreement"
+            android:layout_width="299dp"
+            android:layout_height="46dp"
+            android:layout_marginTop="28dp"
+            android:text="I'm not a robot"
+            app:layout_constraintTop_toBottomOf="@+id/editTextTextMultiLine"
+            tools:layout_editor_absoluteX="16dp" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout2"
+        android:layout_width="282dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/mini_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Txt_Welcome">
+
+        <Spinner
+            android:id="@+id/selection_type"
+            android:layout_width="237dp"
+            android:layout_height="33dp"
+            android:entries="@array/selection_type"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.918"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.529" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="107dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="32dp"
+        android:backgroundTint="#A63992DF"
+        android:text="submit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout_mini" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="107dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="152dp"
+        android:backgroundTint="#E91E63"
+        android:text="go back"
+        android:clickable="true"
+        android:onClick="Dashboard"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout_mini" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

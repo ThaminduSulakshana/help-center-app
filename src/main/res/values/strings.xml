@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">mf1</string>
+    <string name="btnSubmit">submit</string>
+    <string name="btnShow">Show</string>
+    <string name="btnContact">contact</string>
+    <string name="btnBack">Go Back</string>
+    <string name="btnFaq">faq</string>
+
+    <string-array name="selection_type">
+        <item disabled="true">Select type</item>
+        <item>ALL</item>
+        <item>Company background</item>
+        <item>Project background</item>
+        <item>Investor Relations Environment</item>
+
+    </string-array>
+    <string name="title_activity_list">list</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
