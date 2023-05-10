@@ -31,6 +31,5 @@ There is another service called Quick Contact. Users can submit their contact de
 
 <img src="https://user-images.githubusercontent.com/89307986/236409713-6194d599-ec8f-41e1-ac80-ada3a6c1db07.png" alt="Screenshot (546)">
 <img src="https://user-images.githubusercontent.com/89307986/236409715-df39a86f-cef4-456a-a70b-04ae501eb2f8.png" alt="Screenshot (547)">
-<img src="https://user-images.githubusercontent.com/89307986/236409719-d307adba-85f6-4a11-9da9-461784caaa6e.png" alt="Screenshot (548)">
 <img src="https://user-images.githubusercontent.com/89307986/236409721-ad4868fb-d01f-448b-abc3-23b8bc632e5f.png" alt="Screenshot (549)">
 <img src="https://user-images.githubusercontent.com/89307986/236409723-efc0f479-5c8a-408a-943b-0fae
